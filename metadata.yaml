@@ -1,0 +1,35 @@
+_repo: A-Laodicean---A-Story-of-To-day_3258
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Hardy, Thomas
+    birthdate: 1840
+    deathdate: 1928
+    gutenberg_agent_id: '23'
+    url: http://www.gutenberg.org/2009/agents/23
+    wikipedia: http://en.wikipedia.org/wiki/Thomas_Hardy
+description: "A Laodicean is a novel by Thomas Hardy, published in 1881, by Sampson\
+  \ Low, Marston, Searle & Rivington. Set in the more technologically advanced contemporaneous\
+  \ age, the plot exhibits devices uncommon for Hardy, such as falsified telegrams\
+  \ and faked photographs.\n From Wikipedia (CC BY-SA)."
+gutenberg_issued: '2002-06-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '3258'
+  wikidata: Q2105252
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Love stories'
+- !lcc 'PR'
+- !lcsh 'Architects -- Fiction'
+- !lcsh 'Wessex (England) -- Fiction'
+- !lcsh 'Castles -- Conservation and restoration -- Fiction'
+- GITenberg
+title: 'A Laodicean : A Story of To-day'
+url: http://www.gutenberg.org/ebooks/3258
+wikipedia:
+- https://en.wikipedia.org/wiki/A_Laodicean
+- https://nl.wikipedia.org/wiki/A_Laodicean
