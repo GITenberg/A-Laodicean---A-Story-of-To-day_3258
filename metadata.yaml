@@ -1,5 +1,8 @@
 _repo: A-Laodicean---A-Story-of-To-day_3258
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Hardy, Thomas
@@ -12,6 +15,8 @@ description: "A Laodicean is a novel by Thomas Hardy, published in 1881, by Samp
   \ Low, Marston, Searle & Rivington. Set in the more technologically advanced contemporaneous\
   \ age, the plot exhibits devices uncommon for Hardy, such as falsified telegrams\
   \ and faked photographs.\n From Wikipedia (CC BY-SA)."
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/3258#A-Laodicean---A-Story-of-To-day
 gutenberg_issued: '2002-06-01'
 gutenberg_type: Text
 identifiers:
